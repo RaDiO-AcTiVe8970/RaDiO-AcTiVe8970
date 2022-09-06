@@ -70,7 +70,7 @@ These are the list of things that I am familiar with. It does not mean that I am
 <p align="center">
 <a href="mailto:mohit.fahid@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-mohit.fahid@gmail.com-red?style=flat&logo=gmail"></a>
 <a href="https://discord.com/channels/@me"><img alt="Discord" src="https://img.shields.io/badge/Discord-RaDiO AcTiVe |  放射性%231896-7289da?style=flat&logo=discord"></a>
-<!<a href="https://www.linkedin.com/in/mohituzzaman-bhuiyan-98531b159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MD. Mohituzzaman Bhuiyan-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mohituzzaman-bhuiyan-98531b159/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MD. Mohituzzaman Bhuiyan-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.facebook.com/tom.fahid/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Mohituzzaman Fahid-blue?style=flat&logo=facebook"></a>
 <a href="https://www.instagram.com/radio_active_98/?hl=en"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-radio_active_98-f2003c?style=flat&logo=instagram"></a>
 </p>
