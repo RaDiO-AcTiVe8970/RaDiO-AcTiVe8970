@@ -85,5 +85,8 @@ These are the list of things that I am familiar with. It does not mean that I am
        <td><img alt="RaDiO-AcTiVe8970 :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=radio-active8970&show_icons=true&theme=dark"> </td>
        <td><img alt="RaDiO-AcTiVe8970 :: Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=radio-active8970&"> </td>
      </tr>
+     <tr>
+        <td><img alt="RaDiO-AcTiVe8970 :: Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radio-active8970&layout=compact"> </td>
+      </tr>
    </table>
 </p>
